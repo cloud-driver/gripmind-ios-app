@@ -348,13 +348,14 @@ gripmind
 
 ## 文件
 
-| 文件                                                                     | 說明                           |
-| ---------------------------------------------------------------------- | ---------------------------- |
-| [`docs/architecture.md`](docs/architecture.md)                         | 系統架構與 App 資料流程               |
-| [`docs/api.md`](docs/api.md)                                           | iOS App 使用之外部後端 API Contract |
-| [`docs/backend-deployment-notes.md`](docs/backend-deployment-notes.md) | 外部後端部署環境筆記，若有保留              |
-
-> 若 `docs/backend-deployment-notes.md` 不存在，代表後端部署文件不放在此 iOS App repo 中。
+| 文件 | 說明 |
+|---|---|
+| [`docs/app-setup.md`](docs/app-setup.md) | iOS App 本地開發、設定與執行方式 |
+| [`docs/architecture.md`](docs/architecture.md) | App 架構、資料流程與外部服務整合說明 |
+| [`docs/api.md`](docs/api.md) | iOS App 使用之外部後端 API Contract |
+| [`docs/backend-requirements.md`](docs/backend-requirements.md) | 此 iOS App 所需的外部後端能力與規格 |
+| [`docs/backend-deployment-notes.md`](docs/backend-deployment-notes.md) | 外部後端部署環境筆記 |
+| [`docs/portfolio-note.md`](docs/portfolio-note.md) | 作品集導向的專案說明 |
 
 ---
 

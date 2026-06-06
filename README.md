@@ -338,13 +338,14 @@ gripmind
 
 ## Documentation
 
-| Document                                                               | Description                                                        |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [`docs/architecture.md`](docs/architecture.md)                         | System architecture and app data flow                              |
-| [`docs/api.md`](docs/api.md)                                           | Backend API contract used by the iOS app                           |
-| [`docs/backend-deployment-notes.md`](docs/backend-deployment-notes.md) | Notes for the external backend deployment environment, if included |
-
-> If `docs/backend-deployment-notes.md` is not included, it means backend deployment is documented outside this iOS app repository.
+| Document | Description |
+|---|---|
+| [`docs/app-setup.md`](docs/app-setup.md) | How to configure and run the iOS app locally |
+| [`docs/architecture.md`](docs/architecture.md) | iOS app architecture, data flow, and external service integration |
+| [`docs/api.md`](docs/api.md) | Backend API contract used by the iOS app |
+| [`docs/backend-requirements.md`](docs/backend-requirements.md) | Required backend capabilities for the iOS app |
+| [`docs/backend-deployment-notes.md`](docs/backend-deployment-notes.md) | Optional notes for the external backend deployment environment |
+| [`docs/portfolio-note.md`](docs/portfolio-note.md) | Portfolio-oriented explanation of the project |
 
 ---
 
